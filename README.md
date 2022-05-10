@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on FOSS
 - 🤔 I’m looking for help with .NET FRAMEWORK
 - 💬 Ask me about anything
-- 📫 How to reach me: alwaysgiveup@tuta.io
+- 📫 How to reach me: DM me on github
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can eat raw eggs
 -->
